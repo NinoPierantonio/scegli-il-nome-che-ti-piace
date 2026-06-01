@@ -33,6 +33,16 @@ While no real scientific claim is made, this fictional abstract provides a playf
 **Einstein–Rosen bridge; fictional cosmology; parallel universes; Smurf Village; Daffy Duck continuum; cartoon spacetime; quantum absurdity fields; Smurfberry radiation; mock scientific abstract; GitHub demonstration**
 
 ---
+## Reproducibility
+
+The `R/` folder contains example scripts used to generate a fake demonstration dataset and the interactive Leaflet map.
+
+- `R/01_create_fake_data.R` creates simulated whale tracks, fake MPAs, home/core range polygons and fake traffic density.
+- `R/02_create_leaflet_map.R` generates the interactive `index.html` map.
+
+No raw telemetry data or sensitive spatial data are included in this repository.
+
+---
 
 ## 🪪 License
 © 2026 Department of Mushroom Cosmology, Smurf Village Institute of Applied Blue Physics; Centre for Smurfberry Radiation Studies, Smurf Village Institute of Applied Blue Physics; Laboratory of Theoretical Mushroom Fields, Great Mushroom Observatory; Applied Bridge Stabilisation Unit, Smurf Village Engineering Hut; Institute for Advanced Woo-Hoo Dynamics, Duck Dodgers Intergalactic Academy; Department of Cartoon Continuum Studies, Looney Theoretical Physics Laboratory; Division of Elastic Spacetime and Anvil Mechanics, Acme Institute for Experimental Reality
