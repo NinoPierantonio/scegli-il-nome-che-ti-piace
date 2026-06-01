@@ -1,10 +1,6 @@
-# Interactive Map – *Short Communication: Satellite tracking of a solitary sperm whale in Greek waters: conservation implications*
+# Blue-Shifted Mushroom Fields and Woo-Hoo Instabilities: A Fictional Einstein–Rosen Bridge Between the Smurf and Daffy Duck Universes
 
-This repository hosts the **interactive Leaflet map** accompanying the paper:
-
-> **Panigada, S.**, **Panigada, V.**, **Alberini, A.**, **Godsil, N.**, **Johnson, C.**, **Zanardelli, M.**, and **Pierantonio, N.** **(2026)**.  
-> *Short Communication: Satellite tracking of a solitary sperm whale in Greek waters: conservation implications.*  
-> *Journal of Cetacean Research and Management, Special Issue 5 (2024–26), DOI: https://doi.org/10.47536/jcrm.v5i1.1119*
+This repository hosts fake data to be used as an example
 
 🔗 **View the interactive map:** [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/)
 
@@ -12,24 +8,29 @@ This repository hosts the **interactive Leaflet map** accompanying the paper:
 
 ## 🧭 Authors and Affiliations
 
-- **Simone Panigada** [ORCID: 0000-0003-0856-1227](https://orcid.org/0000-0003-0856-1227) – Tethys Research Institute, Milano, Italy  
-- **Viola Panigada** [ORCID: 0009-0003-0719-7790](https://orcid.org/0009-0003-0719-7790) – Tethys Research Institute, Milano, Italy; Duke University Marine Lab, Beaufort, USA  
-- **Amalia Alberini** [ORCID: 0009-0003-5210-5875](https://orcid.org/0009-0003-5210-5875) – WWF Greece, Athens, Greece  
-- **Nicole Godsil** [ORCID: 0009-0003-0611-7242](https://orcid.org/0009-0003-0611-7242) – WWF Greece, Athens, Greece  
-- **Christopher Johnson** [ORCID: 0000-0003-2109-5224](https://orcid.org/0000-0003-2109-5224) – WWF Australia, Melbourne, Australia; Curtin University, Perth, Australia  
-- **Margherita Zanardelli** [ORCID: 0000-0003-4043-0745](https://orcid.org/0000-0003-4043-0745) – Tethys Research Institute, Milano, Italy  
-- **Nino Pierantonio** [ORCID: 0000-0002-1210-8831](https://orcid.org/0000-0002-1210-8831) – Tethys Research Institute, Milano, Italy  
+- **Papa Smurf** [ORCID: 0000-0000-0000-0001](https://orcid.org/0000-0000-0000-0001) – Department of Mushroom Cosmology, Smurf Village Institute of Applied Blue Physics  
+- **Smurfette** [ORCID: 0000-0000-0000-0002](https://orcid.org/0000-0000-0000-0002) – Centre for Smurfberry Radiation Studies, Smurf Village Institute of Applied Blue Physics  
+- **Brainy Smurf** [ORCID: 0000-0000-0000-0003](https://orcid.org/0000-0000-0000-0003) – Laboratory of Theoretical Mushroom Fields, Great Mushroom Observatory  
+- **Hefty Smurf** [ORCID: 0000-0000-0000-0004](https://orcid.org/0000-0000-0000-0004) – Applied Bridge Stabilisation Unit, Smurf Village Engineering Hut  
+- **Daffy Duck** [ORCID: 0000-0000-0000-0005](https://orcid.org/0000-0000-0000-0005) – Institute for Advanced Woo-Hoo Dynamics, Duck Dodgers Intergalactic Academy  
+- **Porky Pig** [ORCID: 0000-0000-0000-0006](https://orcid.org/0000-0000-0000-0006) – Department of Cartoon Continuum Studies, Looney Theoretical Physics Laboratory  
+- **Bugs Bunny** [ORCID: 0000-0000-0000-0007](https://orcid.org/0000-0000-0000-0007) – Division of Elastic Spacetime and Anvil Mechanics, Acme Institute for Experimental Reality  
 
 ---
 
 ## 📄 Abstract
 
-The Hellenic Trench hosts the highest density of endangered sperm whales in the Eastern Mediterranean Sea and is recognised as an Important Marine Mammal Area (IMMA). This population is exposed to substantial anthropogenic pressures, including vessel strikes, hydrocarbon activities and military exercises. In July 2024, a solitary adult male was equipped with a minimally invasive ARGOS satellite‐linked transmitter southwest of Kefalonia, Greece. Over 57 days, the whale ranged from the Ionian Sea through the Hellenic Trench into the southern and northeastern Aegean Sea. Movement analyses revealed extended periods of localised movements southwest of Kefalonia‐Zakynthos and later in the northeastern Aegean, indicative of potential feeding behaviour, interspersed with phases of directed travel along the Hellenic Trench and across the Cyclades toward the Dodecanese. This is the first satellite track of a male sperm whale in Greece, providing novel insights into habitat use, movement strategies, and previously undocumented transit and residency areas. These findings highlight new key areas for place‐based conservation and demonstrate the value of satellite telemetry for informing targeted management in the Eastern Mediterranean.
+We report the entirely fictional discovery of the first Einstein–Rosen bridge connecting two previously separate fictional universes: the Smurf cosmological domain and the Daffy Duck animated continuum. The bridge was detected through a mock analysis of anomalous blue-shifted mushroom-field fluctuations and repeated bursts of chaotic “woo-hoo” energy signatures originating from a highly unstable cartoon spacetime region. Simulated gravitational-lensing data suggest the presence of a semi-stable trans-universal throat linking Smurf Village to a duck-dominated reality governed by elastic physics, exaggerated emotional states, and frequent violations of classical momentum conservation. 
+
+Preliminary modelling indicates that the bridge is maintained by a rare interaction between concentrated Smurfberry radiation and Daffy-type quantum absurdity fields. These conditions appear to allow temporary exchange of matter, information, and slapstick-related energy between the two universes, although passage through the bridge remains highly unpredictable and may result in spontaneous musical numbers, rapid costume changes, temporary flattening by oversized objects, or transformation into a hand-drawn anvil.
+
+While no real scientific claim is made, this fictional abstract provides a playful example of how a mock discovery could be presented in a formal scientific style for demonstration purposes. The text, names, affiliations, identifiers, and research topic are entirely fictional and are intended only for use in a private GitHub demonstration page.
 
 ---
 
-## 🐋 Keywords
-**Sperm whale; *Physeter macrocephalus*; Satellite tagging; Telemetry; Mediterranean Sea; Hellenic Trench; Conservation; Habitat use; Important Marine Mammal Areas (IMMAs)**
+## 🌀 Keywords
+
+**Einstein–Rosen bridge; fictional cosmology; parallel universes; Smurf Village; Daffy Duck continuum; cartoon spacetime; quantum absurdity fields; Smurfberry radiation; mock scientific abstract; GitHub demonstration**
 
 ---
 
