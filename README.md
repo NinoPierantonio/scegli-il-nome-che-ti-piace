@@ -2,7 +2,7 @@
 
 This repository hosts fake data to be used as an example
 
-🔗 **View the interactive map:** [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/)
+🔗 **View the interactive map:** [https://ninopierantonio.github.io/scegli-il-nome-che-ti-piace/](https://ninopierantonio.github.io/scegli-il-nome-che-ti-piace/)
 
 ---
 
