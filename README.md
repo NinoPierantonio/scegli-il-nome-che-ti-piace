@@ -35,7 +35,8 @@ While no real scientific claim is made, this fictional abstract provides a playf
 ---
 
 ## 🪪 License
-© 2026 Tethys Research Institute and collaborators.  
+© 2026 Department of Mushroom Cosmology, Smurf Village Institute of Applied Blue Physics; Centre for Smurfberry Radiation Studies, Smurf Village Institute of Applied Blue Physics; Laboratory of Theoretical Mushroom Fields, Great Mushroom Observatory; Applied Bridge Stabilisation Unit, Smurf Village Engineering Hut; Institute for Advanced Woo-Hoo Dynamics, Duck Dodgers Intergalactic Academy; Department of Cartoon Continuum Studies, Looney Theoretical Physics Laboratory; Division of Elastic Spacetime and Anvil Mechanics, Acme Institute for Experimental Reality
+
 Distributed for academic and non-commercial use under a [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
