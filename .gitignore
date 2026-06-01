@@ -1,0 +1,30 @@
+# R project/session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
+
+# Data folders - do not upload real data
+data/
+raw_data/
+real_data/
+sensitive_data/
+
+# Spatial data - avoid uploading real GIS layers
+*.tif
+*.tiff
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Keep the final self-contained map
+!index.html
